@@ -1,1 +1,9 @@
 projekt wersja 2.0
+
+dane:
+https://archive.ics.uci.edu/ml/machine-learning-databases/
+
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/00192/
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/00193/
